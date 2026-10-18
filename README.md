@@ -1,3 +1,9 @@
+# DEMO (Simulated)
+
+<img width="1124" height="690" alt="Recording 2026-10-19 055146" src="https://github.com/user-attachments/assets/40fbaf3b-ff9a-4b61-86c3-6843a365432d" />
+
+
+
 # BRACU Student Evaluation Helper: Installation Guide
 
 A step-by-step guide to installing **Tampermonkey** and the **BRACU Student Evaluation Helper** userscript ([`script.js`](https://github.com/ikeepgettingbann3d/BRACUstEVALauto/blob/main/script.js)).
